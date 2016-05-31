@@ -1,0 +1,8 @@
+C:\MyProjects\ms.net\Calendar Schedule\CashFlowCalendar\bin\Debug\CashFlowCalendar.exe.config
+C:\MyProjects\ms.net\Calendar Schedule\CashFlowCalendar\obj\Debug\CashFlowCalendar.csprojResolveAssemblyReference.cache
+C:\MyProjects\ms.net\Calendar Schedule\CashFlowCalendar\obj\Debug\CashFlowCalendar.Properties.Resources.resources
+C:\MyProjects\ms.net\Calendar Schedule\CashFlowCalendar\obj\Debug\CashFlowCalendar.csproj.GenerateResource.Cache
+C:\MyProjects\ms.net\Calendar Schedule\CashFlowCalendar\bin\Debug\CashFlowCalendar.exe
+C:\MyProjects\ms.net\Calendar Schedule\CashFlowCalendar\bin\Debug\CashFlowCalendar.pdb
+C:\MyProjects\ms.net\Calendar Schedule\CashFlowCalendar\obj\Debug\CashFlowCalendar.exe
+C:\MyProjects\ms.net\Calendar Schedule\CashFlowCalendar\obj\Debug\CashFlowCalendar.pdb
